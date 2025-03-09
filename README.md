@@ -5,7 +5,7 @@
 
 <!-- Animated GIF Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPJG30GDwOJ1IL2/giphy.gif" alt="Animated Banner" style="max-width: 100%; height: auto;">
+  <img src="[https://media.giphy.com/media/26FPJG30GDwOJ1IL2/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkb2FhNmV4YTR6bzZubmRybGhubHVucDR0ajRlemMxaXp4MGVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" alt="Animated Banner" style="max-width: 100%; height: auto;">
 </div>
 
 ## About Me
@@ -61,16 +61,3 @@ I'm currently working on **Waply** and continuously leveling up in technologies 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishrautela&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-## Animated SVG Demo
-
-Here's an example of an animated SVG element that you can include in your README. While GitHub READMEs have limitations regarding inline CSS/JS, animated SVGs are fully supported:
-
-```html
-<!-- Animated SVG Example -->
-<svg width="200" height="60">
-  <text x="10" y="35" font-size="30" fill="#007ACC">
-    Hello!
-    <animate attributeName="fill" values="#007ACC;#FF5733;#007ACC" dur="3s" repeatCount="indefinite" />
-  </text>
-</svg>
