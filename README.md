@@ -6,7 +6,7 @@
 <!-- Animated GIF Banner -->
 <div align="center">
   <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkb2FhNmV4YTR6bzZubmRybGhubHVucDR0ajRlemMxaXp4MGVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Animated Banner" style="max-width: 100%; height: auto;">
+  <img style="width: 100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkb2FhNmV4YTR6bzZubmRybGhubHVucDR0ajRlemMxaXp4MGVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Animated Banner" style="max-width: 100%; height: auto;">
 </div>
   
 </div>
