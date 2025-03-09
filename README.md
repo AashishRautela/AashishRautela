@@ -1,4 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ashish Rautela</h1>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80">
+  <text x="10" y="50" font-family="monospace" font-size="40" fill="#333">
+    <tspan opacity="0">
+      H
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      i
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.2s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      &nbsp;
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.4s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      A
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      s
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      h
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      i
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      s
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.4s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      h
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.6s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      &nbsp;
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.8s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      R
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      a
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.2s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      u
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.4s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      t
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.6s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      e
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.8s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      l
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3s" fill="freeze" />
+    </tspan>
+    <tspan opacity="0">
+      a
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.2s" fill="freeze" />
+    </tspan>
+  </text>
+  <!-- Blinking Cursor -->
+  <rect x="340" y="20" width="2" height="40" fill="#333">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
 <h3 align="center">
   Full-stack developer building scalable AI agents that automate, optimize, and enhance user experiences—crafting intelligent fintech and cloud solutions, transforming ideas into code one commit at a time
 </h3>
