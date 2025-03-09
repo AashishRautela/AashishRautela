@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Rautela</h1>
 <h3 align="center">Full-stack developer building scalable AI agents that automate, optimize, and enhance user experiences—crafting intelligent fintech and cloud solutions, transforming ideas into code one commit at a time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishrautela&label=Profile%20views&color=0e75b6&style=flat" alt="aashishrautela" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishrautela" alt="aashishrautela" /></a> </p>
-
 - 🔭 I’m currently working on **Waply**
 
 - 🌱 I’m currently leveling up in learning **Nodejs,NextJs,Postgress,MongoDb,AI Integration**
