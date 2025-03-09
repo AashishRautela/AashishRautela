@@ -15,7 +15,7 @@
 
 I'm currently working on **Waply** and continuously leveling up in technologies such as Node.js, Next.js, PostgreSQL, MongoDB, and AI integrations. I specialize in crafting robust solutions using React, Next.js, Express, PostgreSQL, and MongoDB.
 
-- 🔭 **Current Project:** [Waply]("https://waply.co/india/")
+- 🔭 **Current Project:** [Waply](https://waply.co/india/)
 - 🌱 **Learning:** Node.js, Next.js, PostgreSQL, MongoDB, AI Integration
 - 💬 **Ask Me About:** React, Next.js, Express, PostgreSQL, MongoDB
 - 📫 **Reach Me:** [asisrautela612@gmail.com](mailto:asisrautela612@gmail.com)
