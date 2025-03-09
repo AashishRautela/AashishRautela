@@ -57,14 +57,15 @@ I'm currently working on **Waply** and continuously leveling up in technologies 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </div>
 
-## GitHub Stats
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; background-color: #000; padding: 20px; border-radius: 10px;">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aashishrautela&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishrautela" alt="GitHub Streak" />
+  </div>
+  <div style="grid-column: span 2; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishrautela&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishrautela&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishrautela" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishrautela&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
